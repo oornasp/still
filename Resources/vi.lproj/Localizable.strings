@@ -1,0 +1,52 @@
+/* Phases */
+"Focus" = "Tập trung";
+"Short Break" = "Nghỉ ngắn";
+"Long Break" = "Nghỉ dài";
+
+/* Timer */
+"Space to start" = "Nhấn Space để bắt đầu";
+"Ends at %@" = "Kết thúc lúc %@";
+"Paused" = "Tạm dừng";
+"Reset" = "Đặt lại";
+"Skip" = "Bỏ qua";
+"Pause" = "Tạm dừng";
+"Resume" = "Tiếp tục";
+"Start %@" = "Bắt đầu %@";
+
+/* Stats & units */
+"Today" = "Hôm nay";
+"No sessions yet" = "Chưa có phiên nào";
+"1 session" = "1 phiên";
+"%d sessions" = "%d phiên";
+"%dm" = "%dp";
+"%d min" = "%d phút";
+"%dh" = "%d giờ";
+"%dh %dm" = "%d giờ %d phút";
+
+/* Settings */
+"Settings" = "Cài đặt";
+"Settings…" = "Cài đặt…";
+"Back" = "Quay lại";
+"Timer" = "Hẹn giờ";
+"Long break every" = "Nghỉ dài sau mỗi";
+"General" = "Chung";
+"Menu bar icon" = "Biểu tượng";
+"Menu bar time" = "Hiện giờ";
+"Ring" = "Vòng";
+"Panda" = "Gấu trúc";
+"Auto-start breaks" = "Tự động bắt đầu nghỉ";
+"Auto-start focus" = "Tự động bắt đầu tập trung";
+"Sound" = "Âm thanh";
+"Off" = "Tắt";
+"Chime" = "Ting";
+"Bowl" = "Ngân";
+"Wood" = "Gỗ";
+"Launch at login" = "Mở khi đăng nhập";
+"Quit Still" = "Thoát Still";
+
+/* Notifications */
+"Focus complete" = "Hoàn thành phiên tập trung";
+"Nice work. Take a %d-minute break." = "Tốt lắm. Nghỉ ngơi %d phút nhé.";
+"Great work. Enjoy a %d-minute long break." = "Làm tốt lắm! Tận hưởng %d phút nghỉ dài nhé.";
+"Break's over" = "Hết giờ nghỉ";
+"Ready for the next focus session?" = "Sẵn sàng cho phiên tập trung tiếp theo chưa?";
